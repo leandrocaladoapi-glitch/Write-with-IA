@@ -1,7 +1,7 @@
 # Appendices — Write with AI
 
 <!--
-STATUS: draft (A–F complete prose)
+STATUS: final (A–F complete prose)
 TARGET WORDS: 15,000
 CURRENT WORDS: (update at revision)
 LAST UPDATED: 2026-09-23
