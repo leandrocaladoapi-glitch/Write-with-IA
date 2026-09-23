@@ -1,6 +1,6 @@
 # Validation Report — Write with AI
 
-**Date:** 2026-09-23 · **Branch:** `arena/01a0cbbd-write-with-ia` · **Final GitHub commit:** `PENDING_RECORD` (recorded in the seal follow-up commit; see Git history on this branch)
+**Date:** 2026-09-23 · **Branch:** `arena/01a0cbbd-write-with-ia` · **Final GitHub commit (manuscript payload):** `55274176005412acd3fcbbc1037aa578b75363c1` (complete book + reports + build; this SHA line was recorded in the immediately following seal commit on the same branch — see Git history)
 
 ## 1. Real word count
 
@@ -73,6 +73,6 @@ Budget ≈122,500 → actual 127,980 (+4.5%); every file within the ±20% band (
 
 ## 5. Final GitHub commit
 
-`PENDING_RECORD` — filled in the seal follow-up commit on `arena/01a0cbbd-write-with-ia` (this report's `PENDING_RECORD` line is updated post-commit; the manuscript payload itself is complete as of the commit that carries this file).
+**Manuscript payload commit:** `55274176005412acd3fcbbc1037aa578b75363c1` on `arena/01a0cbbd-write-with-ia` — contains all 16 chapters, front matter, appendices, verified claim register, `book/status.md` (final), `scripts/build.py`, all three manuscript files in `output/`, and both reports (with this SHA recorded in the seal commit directly after it). Full history on the branch: `fbf9e92` (appendices + ch02–07 top-ups) → `d5d85a4` (ch08–13/15 top-ups) → `5527417` (ch01/ch05 close, status final, register verified, build + outputs + reports) → seal commit.
 
 **Publication: not performed.** KDP files await user review (explicit standing instruction: no auto-publish).

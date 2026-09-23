@@ -51,3 +51,5 @@ All 27 prompt cards (PC-01…PC-27) exist: teaching versions printed in their ho
 `output/final-manuscript.md` · `output/final-manuscript.docx` · `output/final-manuscript.epub` (all containing the whole book: title + TOC + front + 16 chapters + appendices A–F) · `output/editorial-report.md` (this file) · `output/validation-report.md`.
 
 **Publication status: NOT published.** Amazon KDP files are ready for *user review*; no automatic publication is performed or authorized by this build.
+
+**Manuscript payload commit:** `55274176005412acd3fcbbc1037aa578b75363c1` (branch `arena/01a0cbbd-write-with-ia`; seal commit follows — see `output/validation-report.md` §5).
